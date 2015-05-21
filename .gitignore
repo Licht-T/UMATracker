@@ -2,5 +2,3 @@
 test/
 user/
 *.pyc
-lib/blockly/
-lib/closure-library/
