@@ -1,6 +1,6 @@
 [submodule "lib/closure-library"]
 	path = lib/closure-library
-	url = https://github.com/Licht-T/closure-library/tree/master
+	url = git@github.com:Licht-T/closure-library.git
 [submodule "lib/blockly"]
 	path = lib/blockly
-	url = https://github.com/Licht-T/blockly/tree/master
+	url = git@github.com:Licht-T/blockly.git
